@@ -6,7 +6,7 @@ Este proyecto es para hacer una prueba con hilos
 El archivo `makefile`
 ---------------------
 
-Archivo completado por Pablo a fecha: 24 de Abril del 2014
+Archivo completado por PABLO a fecha: 24 de Abril del 2014
 
 El archivo `prueba.c`
 ---------------------
