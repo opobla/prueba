@@ -1,9 +1,8 @@
-#include <stdio.h>
+#include "cruz.h"
 
 void* pinta_cruz() {
-    // TODO: completar Pablo
-    printf("         *\n         *\n         *\n         *\n         *\n* * * * * * * * * * *\n         *\n         *\n         *\n         *\n         *\n");
-
-
-
+    while (1) {
+        printf("+");
+        usleep(200);
+    }
 }
