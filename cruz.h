@@ -1,0 +1,1 @@
+void* pinta_cruz();
