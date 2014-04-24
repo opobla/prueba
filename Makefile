@@ -6,3 +6,7 @@ estrella.o: estrella.c estrella.h
 
 cruz.o: cruz.c cruz.h
 	gcc -g -c -o cruz.o cruz.c
+
+clean:
+	rm -Rf *.o
+	rm -Rf hilos
