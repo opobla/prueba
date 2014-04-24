@@ -11,4 +11,5 @@ Completar Pablo
 El archivo 'prueba.'
 ---------------------
 
-Completar Jose Manuel
+Jose Manuel
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
