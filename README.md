@@ -6,9 +6,9 @@ Este proyecto es para hacer una prueba con hilos
 El archivo 'makefile'
 ---------------------
 
-Completar Pablo
+Archivo completado por Pablo a fecha: 24 de Abril del 2014
 
-El archivo 'prueba.'
+El archivo 'prueba.c'
 ---------------------
 
 Completar Jose Manuel
